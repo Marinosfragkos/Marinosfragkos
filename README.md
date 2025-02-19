@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm [Your Name]  
+### Hi there! 👋 I'm Marinos  
 
 💻 **Computer Engineering Student | AI & Web Developer | Game Enthusiast**  
 
@@ -6,8 +6,8 @@
 
 ### 🔥 About Me
 - 🎓 I'm currently studying **Computer Engineering & Informatics**
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 🌍 Interested in **Web & Mobile Development**
+- 🤖 Passionate about **Web & Mobile Development**
+- 🌍 Interested in **Artificial Intelligence & Machine Learning**
 - 🎮 Exploring **Game Development & Virtual Environments**
 - 🚀 Always learning new technologies and frameworks
 
