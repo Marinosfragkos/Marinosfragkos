@@ -6,8 +6,8 @@
 
 ### 🔥 About Me
 - 🎓 I'm currently studying **Computer Engineering & Informatics**
-- 🤖 Passionate about **Web & Mobile Development**
-- 🌍 Interested in **Artificial Intelligence & Machine Learning**
+- 🌍 Passionate about **Web & Mobile Development**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 🎮 Exploring **Game Development & Virtual Environments**
 - 🚀 Always learning new technologies and frameworks
 
