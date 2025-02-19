@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Marinos  
 
-💻 **Computer Engineering Student | AI & Web Developer | Game Enthusiast**  
+💻 **Computer Engineering Student | Web Developer | Game Enthusiast**  
 
 ---
 
