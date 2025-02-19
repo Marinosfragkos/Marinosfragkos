@@ -5,7 +5,8 @@
 ---
 
 ### 🔥 About Me
-- 🎓 I'm currently studying **Computer Engineering & Informatics**
+- 📖 Currently working on my undergraduate thesis
+- 🎓 I'm studying **Computer Engineering & Informatics**
 - 🌍 Passionate about **Web & Mobile Development**
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 🎮 Exploring **Game Development & Virtual Environments**
